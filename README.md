@@ -1,2 +1,2 @@
 # ToDoList
-Projeto de uma aplicação To-do List em Java com o Framework Spring Boot e Integração do Banco de dados H2. Foi usado o Maven para o gerenciamento das dependências e a API REST ApiDog
+Desenvolvimento de uma aplicação back-end em Java; Maven; Spring Boot; API Rest; Lombok; Integração com H2 Database Engine; Implementando segurança nos dados do usuário; Tratamento de Exceções e Deploy do back-end.
